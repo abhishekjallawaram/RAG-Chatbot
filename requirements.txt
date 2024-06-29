@@ -1,0 +1,10 @@
+transformers
+faiss-cpu
+langchain
+ollama
+python-dotenv
+streamlit
+PyPDF2
+beautifulsoup4
+requests
+markdownify
