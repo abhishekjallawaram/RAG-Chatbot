@@ -18,3 +18,11 @@ __pycache__/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+commands.txt
+
+readme_files/
+bash-script-setup.sh
+app-old.py
+embeddings/embeddings.sh
+tokenizers/tokenizers_setup.sh
