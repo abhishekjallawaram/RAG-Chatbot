@@ -21,17 +21,7 @@ This project is a Retrieval-Augmented Generation (RAG) chatbot powered by Langch
 
 ## File Structure
 
-- **.env**: Contains API keys.
-- **.gitignore**: Specifies files and directories to be ignored by git.
-- **app.py**: Streamlit application file.
-- **create_index.py**: Script to create FAISS index from a directory of files.
-- **requirements.txt**: List of dependencies.
-- **readme_files/**: Directory containing sample README files.
-- **uploads/**: Directory where uploaded files are saved.
-- **utils.py**: Utility functions for document loading, text splitting, embedding, and retrieval.
-- **data/**: Directory for scraped horoscope data and the scraping script.
-  - **scraper.py**: Script to scrape horoscope data.
-  - **README.md**: Documentation for scraping data.
+For a detailed file structure, please refer to the [file_structure.md](file_structure.md).
 
 ## Setup
 
